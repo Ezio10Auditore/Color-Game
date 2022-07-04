@@ -1,0 +1,1 @@
+RGB is a color format indicating the amount of red, green and blue in the color respectively.
