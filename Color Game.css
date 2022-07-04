@@ -1,0 +1,70 @@
+.square{
+    width: 30%;
+    margin: 1.66%;
+    float: left;
+    padding-bottom: 30%;
+    background-color: blueviolet;
+    border-radius: 15%;
+    transition: background 0.5s;
+}
+#container{
+    max-width: 50rem;
+    margin: 0 auto;
+}
+
+h1{
+    background-color: steelblue;
+    margin:0 !important;
+    font-weight: normal !important;
+    color: snow;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+body{
+    background-color: #232323 !important;
+}
+
+#result{
+    color: steelblue !important;
+    font-weight: 700;
+    width: 20%;
+    display: inline-block;
+    margin: 0;
+}
+
+#stripe{
+    height: 30px;
+    background-color: white;
+    text-align: center;
+    color:black;
+    margin-bottom: 5px;
+}
+
+#pc{
+    font-size: 4rem;
+}
+
+.selected{
+    background-color: steelblue;
+    color: snow;
+}
+
+button{
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 700;
+    color: steelblue;
+    transition: all 0.5s;
+    outline: none;
+}
+
+button:hover{
+    background-color: steelblue;
+    color: snow;
+}
+
